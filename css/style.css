@@ -1,0 +1,102 @@
+body {
+  height: 100vh;
+  background-image: url("../image/background.jpg");
+}
+<style type="text/css">
+
+    p{
+      margin: auto;
+      padding: inherit;
+      color: white;
+      text-decoration: underline;
+      font-style: Georgia, serif;
+      font-size: 200%;
+    }
+
+
+    h1{
+      font-size: 5em;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: white;
+      text-decoration: underline;
+      font-style: Georgia, serif;
+      font-size: 450%;
+    }
+
+    h2{
+      margin: auto;
+      padding: inherit;
+      color: white;
+      text-decoration: underline;
+      font-style: Georgia, serif;
+      font-size: 200%;
+      text-align: center;
+    }
+    ol{
+      margin: 5;
+      padding: inherit;
+      color: white;
+      text-decoration: underline;
+      font-style: Georgia, serif;
+      font-size: 200%;
+    }
+    p{
+      color: white;
+      font-style: Georgia, serif;
+
+    }
+    .chris{
+      width:50%;
+      float:left;
+     }
+     .chad{
+       width:50%;
+       float:left;
+      }
+
+    .zoe{
+      width:50%;
+      float: left;
+    }
+    audio{
+      width: 130px
+    }
+    section::after{
+      content: "";
+      display: block;
+      clear: both;
+      border-radius: 4px;
+    }
+    section{
+      width: 82%;
+      border: 5px solid grey;
+      background-color: black;
+      padding: 10px;
+      margin: 0px;
+
+    }
+    img{
+      border: 5px solid grey;
+      padding: 0px;
+      margin:0px;
+    }
+    a{
+      padding: 6px;
+      margin: 6px;
+      font-size: 350%;
+      text-decoration-color: blue;
+      color: blue;
+    }
+    footer{
+      margin: auto;
+      padding: inherit;
+      color: white;
+      text-decoration: underline;
+      font-style: Georgia, serif;
+      font-size: 200%;
+    }
+
+
+    </style>
